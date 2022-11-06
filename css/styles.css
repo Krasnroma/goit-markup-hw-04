@@ -285,11 +285,11 @@ footer address a:focus{
     padding-top: 200px;
     text-align: center;
     background-image:
-        linear-gradient(
+        /* linear-gradient(
             to right, 
             var(--acent-hero-rgba),
-            var(--acent-hero-rgba)),
-        url(../images/img\(17\).jpg);
+            var(--acent-hero-rgba)), */
+        url(../images/Img\(17\).jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
